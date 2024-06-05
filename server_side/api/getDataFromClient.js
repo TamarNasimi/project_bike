@@ -83,7 +83,7 @@ app.post('/checkRegister/', (req, res) => {
 
 
 app.post('/DataTrip/', (req, res) => {
-    const { tripPurpose, startingPoint, destination, stopPoints, maxSlope, fitnessLevel, id_user } = req.body;
+    const { tripPurpose, startingPoint, destination, stopPoints, maxSlope, fitnessLevel, id_user, selectedTime } = req.body;
     console.log(req.body)
     var sql = "UPDATE users SET fitness_level = ?, max_slope = ? WHERE id = ?";
     con.query(sql,[fitnessLevel, maxSlope, id_user],  (err, result)=>  {

@@ -26,7 +26,7 @@ con.connect(function(err) {
   // });
   
   //טבלת מסלולים
-  // var sql = "CREATE TABLE routes (route_id INT AUTO_INCREMENT PRIMARY KEY, user_id INT , start_point VARCHAR(255), destination_point VARCHAR(255), created_date DATETIME, trip_purpose VARCHAR(255) ,FOREIGN KEY (user_id) REFERENCES users(id) )";
+  // var sql = "CREATE TABLE routes (route_id INT AUTO_INCREMENT PRIMARY KEY, user_id INT , start_point VARCHAR(255), destination_point VARCHAR(255), created_date DATETIME, trip_purpose VARCHAR(255) , selectedTime DOUBLE, FOREIGN KEY (user_id) REFERENCES users(id) )";
   // con.query(sql, function (err) {
   //   if (err) throw err;
   // console.log("Routes Table created");
