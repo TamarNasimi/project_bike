@@ -75,7 +75,7 @@ class Graph {
 
         return R * c; // Distance in meters
     }
-
+//מדפיס את המיקומים של הנקודות הקיצוניות
     // async constructRoadNetwork(city) {
     //     const boundaries = await this.fetchCityBoundaries(city);
     //     if (!boundaries) {
@@ -142,6 +142,7 @@ class Graph {
 
     //     return { vertices: this.getVertices(), edges: this.getEdges() };
     // }
+    //מדפיס מיקום אחד על המפה
     async constructRoadNetwork(city) {
         const boundaries = await this.fetchCityBoundaries(city);
         if (!boundaries) {
