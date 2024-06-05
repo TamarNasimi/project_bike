@@ -31,7 +31,7 @@ class Graph {
     }
 
     async fetchCoordinates(address) {
-        const apiKey = 'AIzaSyDYircLat1lZ745yEtD9rVCDtc5JwpV9BU'; // Replace with your Google Maps API Key
+        const apiKey = 'your Google Maps API Key'; // Replace with your Google Maps API Key
         const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(address)}&key=${apiKey}`;
 
         try {
@@ -48,7 +48,7 @@ class Graph {
     }
 
     async fetchNearbyRoads(lat, lng) {
-        const apiKey = 'AIzaSyDYircLat1lZ745yEtD9rVCDtc5JwpV9BU'; // Replace with your Google Maps API Key
+        const apiKey = 'your Google Maps API Key'; // Replace with your Google Maps API Key
         const url = `https://roads.googleapis.com/v1/nearestRoads?points=${lat},${lng}&key=${apiKey}`;
 
         try {
