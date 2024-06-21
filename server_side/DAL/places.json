@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Kampai Street Wok - קמפאי סטריט ווק",
+    "location": {
+      "lat": 31.7764198,
+      "lng": 34.6641534
+    }
+  },
+  {
+    "name": "פיתה רחוב אשדוד",
+    "location": {
+      "lat": 31.7928387,
+      "lng": 34.6390541
+    }
+  },
+  {
+    "name": "Sunset BLVD | Kitchen bar",
+    "location": {
+      "lat": 31.81318,
+      "lng": 34.641621
+    }
+  },
+  {
+    "name": "Matilda Bar",
+    "location": {
+      "lat": 31.7886962,
+      "lng": 34.6432854
+    }
+  },
+  {
+    "name": "Bleecker Bakery Ashdod",
+    "location": {
+      "lat": 31.7923435,
+      "lng": 34.638923
+    }
+  },
+  {
+    "name": "Bavaria",
+    "location": {
+      "lat": 31.7876359,
+      "lng": 34.6451346
+    }
+  },
+  {
+    "name": "GODA גודה",
+    "location": {
+      "lat": 31.8126111,
+      "lng": 34.6411177
+    }
+  },
+  {
+    "name": "Rong'an Thai restaurant in Ashdod",
+    "location": {
+      "lat": 31.8114109,
+      "lng": 34.6403656
+    }
+  },
+  {
+    "name": "Petra Restaurant",
+    "location": {
+      "lat": 31.8003638,
+      "lng": 34.6336571
+    }
+  },
+  {
+    "name": "Story Garden Cafe",
+    "location": {
+      "lat": 31.797441,
+      "lng": 34.633688
+    }
+  },
+  {
+    "name": "Directions - Ashdod Youth Center",
+    "location": {
+      "lat": 31.7878124,
+      "lng": 34.6418131
+    }
+  },
+  {
+    "name": "Star Center",
+    "location": {
+      "lat": 31.8102165,
+      "lng": 34.656632
+    }
+  },
+  {
+    "name": "Pnina Pie",
+    "location": {
+      "lat": 31.7873896,
+      "lng": 34.6439616
+    }
+  },
+  {
+    "name": "Profit",
+    "location": {
+      "lat": 31.8130509,
+      "lng": 34.6555022
+    }
+  },
+  {
+    "name": "Castle",
+    "location": {
+      "lat": 31.7879589,
+      "lng": 34.6442903
+    }
+  },
+  {
+    "name": "Osher Ad",
+    "location": {
+      "lat": 31.812394,
+      "lng": 34.6633926
+    }
+  },
+  {
+    "name": "Home Center Ashdod",
+    "location": {
+      "lat": 31.8095953,
+      "lng": 34.6609614
+    }
+  },
+  {
+    "name": "Yesh Chesed",
+    "location": {
+      "lat": 31.7998277,
+      "lng": 34.6623938
+    }
+  },
+  {
+    "name": "Beer Station Ashdod City",
+    "location": {
+      "lat": 31.786665,
+      "lng": 34.6452868
+    }
+  },
+  {
+    "name": "Pizza Italiano",
+    "location": {
+      "lat": 31.8049954,
+      "lng": 34.6432799
+    }
+  }
+]

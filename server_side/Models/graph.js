@@ -34,7 +34,7 @@ class Graph {
     }
 
     async fetchFromGoogleMaps(address) {
-        const apiKey = 'AIzaSyDYircLat1lZ745yEtD9rVCDtc5JwpV9BU';
+        const apiKey = 'API_KEY';
         const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(address)}&key=${apiKey}`;
 
         try {

@@ -1,0 +1,2895 @@
+{
+  "node/410564349": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "fromCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120481",
+        "fromCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/520410626": {
+    "edges": []
+  },
+  "node/520410658": {
+    "edges": [
+      {
+        "to": "node/410564349",
+        "fromCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "toCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "12 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849170",
+        "fromCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849176",
+        "fromCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": "87 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849213",
+        "fromCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "toCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "distance": "0.4 km",
+        "duration": "2 mins"
+      },
+      {
+        "to": "node/1275849241",
+        "fromCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "toCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120481",
+        "fromCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/520410867": {
+    "edges": []
+  },
+  "node/520410876": {
+    "edges": []
+  },
+  "node/817929533": {
+    "edges": [
+      {
+        "to": "node/817929760",
+        "fromCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "toCoordinates": {
+          "lat": 31.7905068,
+          "lng": 34.6591438
+        },
+        "distance": "76 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313147",
+        "fromCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "toCoordinates": {
+          "lat": 31.7905418,
+          "lng": 34.659022
+        },
+        "distance": "64 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177828",
+        "fromCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "toCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178071",
+        "fromCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "toCoordinates": {
+          "lat": 31.7918242,
+          "lng": 34.6587036
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852069",
+        "fromCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "toCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "distance": "8 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852077",
+        "fromCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": "90 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/817929755": {
+    "edges": [
+      {
+        "to": "node/1167178080",
+        "fromCoordinates": {
+          "lat": 31.7940561,
+          "lng": 34.6614968
+        },
+        "toCoordinates": {
+          "lat": 31.7928658,
+          "lng": 34.6611781
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/817929760": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "fromCoordinates": {
+          "lat": 31.7905068,
+          "lng": 34.6591438
+        },
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": "76 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852069",
+        "fromCoordinates": {
+          "lat": 31.7905068,
+          "lng": 34.6591438
+        },
+        "toCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "distance": "88 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852071",
+        "fromCoordinates": {
+          "lat": 31.7905068,
+          "lng": 34.6591438
+        },
+        "toCoordinates": {
+          "lat": 31.7906291,
+          "lng": 34.6590535
+        },
+        "distance": "23 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852077",
+        "fromCoordinates": {
+          "lat": 31.7905068,
+          "lng": 34.6591438
+        },
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": "9 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/817936205": {
+    "edges": [
+      {
+        "to": "node/1167192178",
+        "fromCoordinates": {
+          "lat": 31.7811715,
+          "lng": 34.6615131
+        },
+        "toCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275842399",
+        "fromCoordinates": {
+          "lat": 31.7811715,
+          "lng": 34.6615131
+        },
+        "toCoordinates": {
+          "lat": 31.7813542,
+          "lng": 34.6610521
+        },
+        "distance": "45 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/822100328": {
+    "edges": [
+      {
+        "to": "node/822100335",
+        "fromCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "toCoordinates": {
+          "lat": 31.7850934,
+          "lng": 34.6585032
+        },
+        "distance": "10 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/822100352",
+        "fromCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "toCoordinates": {
+          "lat": 31.7851644,
+          "lng": 34.6583599
+        },
+        "distance": "27 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/822100355",
+        "fromCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "toCoordinates": {
+          "lat": 31.7850766,
+          "lng": 34.6582998
+        },
+        "distance": "43 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167192194",
+        "fromCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "toCoordinates": {
+          "lat": 31.7848882,
+          "lng": 34.658894
+        },
+        "distance": "45 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/822100335": {
+    "edges": [
+      {
+        "to": "node/822100328",
+        "fromCoordinates": {
+          "lat": 31.7850934,
+          "lng": 34.6585032
+        },
+        "toCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "distance": "10 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/822100352",
+        "fromCoordinates": {
+          "lat": 31.7850934,
+          "lng": 34.6585032
+        },
+        "toCoordinates": {
+          "lat": 31.7851644,
+          "lng": 34.6583599
+        },
+        "distance": "15 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/822100355",
+        "fromCoordinates": {
+          "lat": 31.7850934,
+          "lng": 34.6585032
+        },
+        "toCoordinates": {
+          "lat": 31.7850766,
+          "lng": 34.6582998
+        },
+        "distance": "31 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/822100352": {
+    "edges": [
+      {
+        "to": "node/822100328",
+        "fromCoordinates": {
+          "lat": 31.7851644,
+          "lng": 34.6583599
+        },
+        "toCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "distance": "27 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/822100335",
+        "fromCoordinates": {
+          "lat": 31.7851644,
+          "lng": 34.6583599
+        },
+        "toCoordinates": {
+          "lat": 31.7850934,
+          "lng": 34.6585032
+        },
+        "distance": "15 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/822100355",
+        "fromCoordinates": {
+          "lat": 31.7851644,
+          "lng": 34.6583599
+        },
+        "toCoordinates": {
+          "lat": 31.7850766,
+          "lng": 34.6582998
+        },
+        "distance": "14 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/822100355": {
+    "edges": [
+      {
+        "to": "node/822100328",
+        "fromCoordinates": {
+          "lat": 31.7850766,
+          "lng": 34.6582998
+        },
+        "toCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "distance": "43 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/822100335",
+        "fromCoordinates": {
+          "lat": 31.7850766,
+          "lng": 34.6582998
+        },
+        "toCoordinates": {
+          "lat": 31.7850934,
+          "lng": 34.6585032
+        },
+        "distance": "31 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/822100352",
+        "fromCoordinates": {
+          "lat": 31.7850766,
+          "lng": 34.6582998
+        },
+        "toCoordinates": {
+          "lat": 31.7851644,
+          "lng": 34.6583599
+        },
+        "distance": "14 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/840343688": {
+    "edges": [
+      {
+        "to": "node/1163013522",
+        "fromCoordinates": {
+          "lat": 31.7857705,
+          "lng": 34.6675639
+        },
+        "toCoordinates": {
+          "lat": 31.7857912,
+          "lng": 34.6677506
+        },
+        "distance": "26 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2524427978",
+        "fromCoordinates": {
+          "lat": 31.7857705,
+          "lng": 34.6675639
+        },
+        "toCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "distance": "0.8 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1163013522": {
+    "edges": [
+      {
+        "to": "node/840343688",
+        "fromCoordinates": {
+          "lat": 31.7857912,
+          "lng": 34.6677506
+        },
+        "toCoordinates": {
+          "lat": 31.7857705,
+          "lng": 34.6675639
+        },
+        "distance": "26 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2524427978",
+        "fromCoordinates": {
+          "lat": 31.7857912,
+          "lng": 34.6677506
+        },
+        "toCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "distance": "0.8 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1163021337": {
+    "edges": [
+      {
+        "to": "node/2524427978",
+        "fromCoordinates": {
+          "lat": 31.7858897,
+          "lng": 34.6675965
+        },
+        "toCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "distance": "0.9 km",
+        "duration": "2 mins"
+      }
+    ]
+  },
+  "node/1163021339": {
+    "edges": [
+      {
+        "to": "node/1167192180",
+        "fromCoordinates": {
+          "lat": 31.7863826,
+          "lng": 34.6607569
+        },
+        "toCoordinates": {
+          "lat": 31.7859851,
+          "lng": 34.6617536
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275842382",
+        "fromCoordinates": {
+          "lat": 31.7863826,
+          "lng": 34.6607569
+        },
+        "toCoordinates": {
+          "lat": 31.7847065,
+          "lng": 34.6646483
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1163313147": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "fromCoordinates": {
+          "lat": 31.7905418,
+          "lng": 34.659022
+        },
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": "64 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852077",
+        "fromCoordinates": {
+          "lat": 31.7905418,
+          "lng": 34.659022
+        },
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": "26 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1163313190": {
+    "edges": [
+      {
+        "to": "node/410564349",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/520410658",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313304",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177858",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178060",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178072",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178140",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120394",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.7935348,
+          "lng": 34.6639468
+        },
+        "distance": "5 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120481",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": "10 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2524427978",
+        "fromCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "toCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1163313285": {
+    "edges": [
+      {
+        "to": "node/410564349",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/520410658",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": "12 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313304",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849170",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849176",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": "76 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849213",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "distance": "0.4 km",
+        "duration": "2 mins"
+      },
+      {
+        "to": "node/1275849241",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120481",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2524427978",
+        "fromCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "toCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1163313304": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120481",
+        "fromCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2524427978",
+        "fromCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "toCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "distance": "30 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1163313338": {
+    "edges": [
+      {
+        "to": "node/1275852071",
+        "fromCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "toCoordinates": {
+          "lat": 31.7906291,
+          "lng": 34.6590535
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852077",
+        "fromCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381300",
+        "fromCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "toCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "distance": "21 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381333",
+        "fromCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "toCoordinates": {
+          "lat": 31.7886171,
+          "lng": 34.6585412
+        },
+        "distance": "8 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381353",
+        "fromCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "toCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "distance": "32 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167177800": {
+    "edges": [
+      {
+        "to": "node/1167178060",
+        "fromCoordinates": {
+          "lat": 31.792186,
+          "lng": 34.664057
+        },
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": "78 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178255",
+        "fromCoordinates": {
+          "lat": 31.792186,
+          "lng": 34.664057
+        },
+        "toCoordinates": {
+          "lat": 31.7920992,
+          "lng": 34.6643052
+        },
+        "distance": "29 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167177828": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "fromCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178032",
+        "fromCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "toCoordinates": {
+          "lat": 31.7931016,
+          "lng": 34.6585517
+        },
+        "distance": "49 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178071",
+        "fromCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "toCoordinates": {
+          "lat": 31.7918242,
+          "lng": 34.6587036
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852069",
+        "fromCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "toCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167177858": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178060",
+        "fromCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178072",
+        "fromCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": "85 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178140",
+        "fromCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120481",
+        "fromCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167177931": {
+    "edges": [
+      {
+        "to": "node/1167178032",
+        "fromCoordinates": {
+          "lat": 31.7925879,
+          "lng": 34.6584044
+        },
+        "toCoordinates": {
+          "lat": 31.7931016,
+          "lng": 34.6585517
+        },
+        "distance": "60 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178142",
+        "fromCoordinates": {
+          "lat": 31.7925879,
+          "lng": 34.6584044
+        },
+        "toCoordinates": {
+          "lat": 31.7919715,
+          "lng": 34.6582276
+        },
+        "distance": "70 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178032": {
+    "edges": [
+      {
+        "to": "node/1167177828",
+        "fromCoordinates": {
+          "lat": 31.7931016,
+          "lng": 34.6585517
+        },
+        "toCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "distance": "49 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177931",
+        "fromCoordinates": {
+          "lat": 31.7931016,
+          "lng": 34.6585517
+        },
+        "toCoordinates": {
+          "lat": 31.7925879,
+          "lng": 34.6584044
+        },
+        "distance": "60 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178142",
+        "fromCoordinates": {
+          "lat": 31.7931016,
+          "lng": 34.6585517
+        },
+        "toCoordinates": {
+          "lat": 31.7919715,
+          "lng": 34.6582276
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178060": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177800",
+        "fromCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "toCoordinates": {
+          "lat": 31.792186,
+          "lng": 34.664057
+        },
+        "distance": "78 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177858",
+        "fromCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178072",
+        "fromCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178140",
+        "fromCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178316",
+        "fromCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "toCoordinates": {
+          "lat": 31.7926227,
+          "lng": 34.6622431
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120481",
+        "fromCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178071": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "fromCoordinates": {
+          "lat": 31.7918242,
+          "lng": 34.6587036
+        },
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177828",
+        "fromCoordinates": {
+          "lat": 31.7918242,
+          "lng": 34.6587036
+        },
+        "toCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852069",
+        "fromCoordinates": {
+          "lat": 31.7918242,
+          "lng": 34.6587036
+        },
+        "toCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178072": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177858",
+        "fromCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": "85 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178060",
+        "fromCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178140",
+        "fromCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": "48 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120481",
+        "fromCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178080": {
+    "edges": [
+      {
+        "to": "node/817929755",
+        "fromCoordinates": {
+          "lat": 31.7928658,
+          "lng": 34.6611781
+        },
+        "toCoordinates": {
+          "lat": 31.7940561,
+          "lng": 34.6614968
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178140": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177858",
+        "fromCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178060",
+        "fromCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178072",
+        "fromCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": "48 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120481",
+        "fromCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178142": {
+    "edges": [
+      {
+        "to": "node/1167177931",
+        "fromCoordinates": {
+          "lat": 31.7919715,
+          "lng": 34.6582276
+        },
+        "toCoordinates": {
+          "lat": 31.7925879,
+          "lng": 34.6584044
+        },
+        "distance": "70 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178032",
+        "fromCoordinates": {
+          "lat": 31.7919715,
+          "lng": 34.6582276
+        },
+        "toCoordinates": {
+          "lat": 31.7931016,
+          "lng": 34.6585517
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178144": {
+    "edges": [
+      {
+        "to": "node/1275849259",
+        "fromCoordinates": {
+          "lat": 31.7909765,
+          "lng": 34.6638697
+        },
+        "toCoordinates": {
+          "lat": 31.7909808,
+          "lng": 34.6641221
+        },
+        "distance": "28 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178255": {
+    "edges": [
+      {
+        "to": "node/1167177800",
+        "fromCoordinates": {
+          "lat": 31.7920992,
+          "lng": 34.6643052
+        },
+        "toCoordinates": {
+          "lat": 31.792186,
+          "lng": 34.664057
+        },
+        "distance": "29 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167178316": {
+    "edges": [
+      {
+        "to": "node/1167178060",
+        "fromCoordinates": {
+          "lat": 31.7926227,
+          "lng": 34.6622431
+        },
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167192178": {
+    "edges": [
+      {
+        "to": "node/817936205",
+        "fromCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "toCoordinates": {
+          "lat": 31.7811715,
+          "lng": 34.6615131
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167192194",
+        "fromCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "toCoordinates": {
+          "lat": 31.7848882,
+          "lng": 34.658894
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275842399",
+        "fromCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "toCoordinates": {
+          "lat": 31.7813542,
+          "lng": 34.6610521
+        },
+        "distance": "72 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167192180": {
+    "edges": [
+      {
+        "to": "node/1163021339",
+        "fromCoordinates": {
+          "lat": 31.7859851,
+          "lng": 34.6617536
+        },
+        "toCoordinates": {
+          "lat": 31.7863826,
+          "lng": 34.6607569
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275842382",
+        "fromCoordinates": {
+          "lat": 31.7859851,
+          "lng": 34.6617536
+        },
+        "toCoordinates": {
+          "lat": 31.7847065,
+          "lng": 34.6646483
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/3546988397",
+        "fromCoordinates": {
+          "lat": 31.7859851,
+          "lng": 34.6617536
+        },
+        "toCoordinates": {
+          "lat": 31.7855909,
+          "lng": 34.6615237
+        },
+        "distance": "49 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167192194": {
+    "edges": [
+      {
+        "to": "node/822100328",
+        "fromCoordinates": {
+          "lat": 31.7848882,
+          "lng": 34.658894
+        },
+        "toCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "distance": "45 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167192178",
+        "fromCoordinates": {
+          "lat": 31.7848882,
+          "lng": 34.658894
+        },
+        "toCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1167192214": {
+    "edges": [
+      {
+        "to": "node/1275842382",
+        "fromCoordinates": {
+          "lat": 31.7825384,
+          "lng": 34.6636854
+        },
+        "toCoordinates": {
+          "lat": 31.7847065,
+          "lng": 34.6646483
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/3546988397",
+        "fromCoordinates": {
+          "lat": 31.7825384,
+          "lng": 34.6636854
+        },
+        "toCoordinates": {
+          "lat": 31.7855909,
+          "lng": 34.6615237
+        },
+        "distance": "0.4 km",
+        "duration": "2 mins"
+      }
+    ]
+  },
+  "node/1275842382": {
+    "edges": [
+      {
+        "to": "node/1163021339",
+        "fromCoordinates": {
+          "lat": 31.7847065,
+          "lng": 34.6646483
+        },
+        "toCoordinates": {
+          "lat": 31.7863826,
+          "lng": 34.6607569
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167192180",
+        "fromCoordinates": {
+          "lat": 31.7847065,
+          "lng": 34.6646483
+        },
+        "toCoordinates": {
+          "lat": 31.7859851,
+          "lng": 34.6617536
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167192214",
+        "fromCoordinates": {
+          "lat": 31.7847065,
+          "lng": 34.6646483
+        },
+        "toCoordinates": {
+          "lat": 31.7825384,
+          "lng": 34.6636854
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1275842399": {
+    "edges": [
+      {
+        "to": "node/817936205",
+        "fromCoordinates": {
+          "lat": 31.7813542,
+          "lng": 34.6610521
+        },
+        "toCoordinates": {
+          "lat": 31.7811715,
+          "lng": 34.6615131
+        },
+        "distance": "45 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167192178",
+        "fromCoordinates": {
+          "lat": 31.7813542,
+          "lng": 34.6610521
+        },
+        "toCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "distance": "72 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1275849151": {
+    "edges": []
+  },
+  "node/1275849162": {
+    "edges": []
+  },
+  "node/1275849170": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "fromCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849176",
+        "fromCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849213",
+        "fromCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "toCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849241",
+        "fromCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "toCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "distance": "61 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1275849176": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "fromCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": "87 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "76 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849170",
+        "fromCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849213",
+        "fromCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "toCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849241",
+        "fromCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "toCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1275849213": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "fromCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": "0.4 km",
+        "duration": "2 mins"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "0.4 km",
+        "duration": "2 mins"
+      },
+      {
+        "to": "node/1275849170",
+        "fromCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849176",
+        "fromCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1275849215": {
+    "edges": []
+  },
+  "node/1275849224": {
+    "edges": []
+  },
+  "node/1275849241": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "fromCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849170",
+        "fromCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": "61 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275849176",
+        "fromCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1275849259": {
+    "edges": [
+      {
+        "to": "node/1167178144",
+        "fromCoordinates": {
+          "lat": 31.7909808,
+          "lng": 34.6641221
+        },
+        "toCoordinates": {
+          "lat": 31.7909765,
+          "lng": 34.6638697
+        },
+        "distance": "28 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1275852064": {
+    "edges": [
+      {
+        "to": "node/1275852071",
+        "fromCoordinates": {
+          "lat": 31.7895899,
+          "lng": 34.662333
+        },
+        "toCoordinates": {
+          "lat": 31.7906291,
+          "lng": 34.6590535
+        },
+        "distance": "0.3 km",
+        "duration": "2 mins"
+      },
+      {
+        "to": "node/1275852077",
+        "fromCoordinates": {
+          "lat": 31.7895899,
+          "lng": 34.662333
+        },
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1275852069": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "fromCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": "8 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/817929760",
+        "fromCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "toCoordinates": {
+          "lat": 31.7905068,
+          "lng": 34.6591438
+        },
+        "distance": "88 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177828",
+        "fromCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "toCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178071",
+        "fromCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "toCoordinates": {
+          "lat": 31.7918242,
+          "lng": 34.6587036
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852077",
+        "fromCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1275852071": {
+    "edges": [
+      {
+        "to": "node/817929760",
+        "fromCoordinates": {
+          "lat": 31.7906291,
+          "lng": 34.6590535
+        },
+        "toCoordinates": {
+          "lat": 31.7905068,
+          "lng": 34.6591438
+        },
+        "distance": "23 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313338",
+        "fromCoordinates": {
+          "lat": 31.7906291,
+          "lng": 34.6590535
+        },
+        "toCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852064",
+        "fromCoordinates": {
+          "lat": 31.7906291,
+          "lng": 34.6590535
+        },
+        "toCoordinates": {
+          "lat": 31.7895899,
+          "lng": 34.662333
+        },
+        "distance": "0.3 km",
+        "duration": "2 mins"
+      }
+    ]
+  },
+  "node/1275852077": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "fromCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": "90 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/817929760",
+        "fromCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "toCoordinates": {
+          "lat": 31.7905068,
+          "lng": 34.6591438
+        },
+        "distance": "9 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313147",
+        "fromCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "toCoordinates": {
+          "lat": 31.7905418,
+          "lng": 34.659022
+        },
+        "distance": "26 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313338",
+        "fromCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "toCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852064",
+        "fromCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "toCoordinates": {
+          "lat": 31.7895899,
+          "lng": 34.662333
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852069",
+        "fromCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "toCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "distance": "0.1 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381300",
+        "fromCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "toCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "distance": "0.3 km",
+        "duration": "2 mins"
+      },
+      {
+        "to": "node/2026381333",
+        "fromCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "toCoordinates": {
+          "lat": 31.7886171,
+          "lng": 34.6585412
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381353",
+        "fromCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "toCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1350120394": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.7935348,
+          "lng": 34.6639468
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "5 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2524427978",
+        "fromCoordinates": {
+          "lat": 31.7935348,
+          "lng": 34.6639468
+        },
+        "toCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/1350120481": {
+    "edges": [
+      {
+        "to": "node/410564349",
+        "fromCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "toCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/520410658",
+        "fromCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "10 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313304",
+        "fromCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "toCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167177858",
+        "fromCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": "0.3 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178060",
+        "fromCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178072",
+        "fromCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167178140",
+        "fromCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/2026381300": {
+    "edges": [
+      {
+        "to": "node/1163313338",
+        "fromCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "toCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "distance": "21 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852077",
+        "fromCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": "0.3 km",
+        "duration": "2 mins"
+      },
+      {
+        "to": "node/2026381333",
+        "fromCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "toCoordinates": {
+          "lat": 31.7886171,
+          "lng": 34.6585412
+        },
+        "distance": "26 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381353",
+        "fromCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "toCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "distance": "8 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/2026381333": {
+    "edges": [
+      {
+        "to": "node/1163313338",
+        "fromCoordinates": {
+          "lat": 31.7886171,
+          "lng": 34.6585412
+        },
+        "toCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "distance": "8 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852077",
+        "fromCoordinates": {
+          "lat": 31.7886171,
+          "lng": 34.6585412
+        },
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381300",
+        "fromCoordinates": {
+          "lat": 31.7886171,
+          "lng": 34.6585412
+        },
+        "toCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "distance": "26 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381353",
+        "fromCoordinates": {
+          "lat": 31.7886171,
+          "lng": 34.6585412
+        },
+        "toCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "distance": "24 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/2026381353": {
+    "edges": [
+      {
+        "to": "node/1163313338",
+        "fromCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "toCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "distance": "32 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1275852077",
+        "fromCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381300",
+        "fromCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "toCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "distance": "8 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/2026381333",
+        "fromCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "toCoordinates": {
+          "lat": 31.7886171,
+          "lng": 34.6585412
+        },
+        "distance": "24 m",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/2524427978": {
+    "edges": [
+      {
+        "to": "node/840343688",
+        "fromCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "toCoordinates": {
+          "lat": 31.7857705,
+          "lng": 34.6675639
+        },
+        "distance": "0.8 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163013522",
+        "fromCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "toCoordinates": {
+          "lat": 31.7857912,
+          "lng": 34.6677506
+        },
+        "distance": "0.8 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163021337",
+        "fromCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "toCoordinates": {
+          "lat": 31.7858897,
+          "lng": 34.6675965
+        },
+        "distance": "0.9 km",
+        "duration": "2 mins"
+      },
+      {
+        "to": "node/1163313190",
+        "fromCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313285",
+        "fromCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": "0.2 km",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1163313304",
+        "fromCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "toCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "distance": "30 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1350120394",
+        "fromCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "toCoordinates": {
+          "lat": 31.7935348,
+          "lng": 34.6639468
+        },
+        "distance": "0.4 km",
+        "duration": "1 min"
+      }
+    ]
+  },
+  "node/3546988397": {
+    "edges": [
+      {
+        "to": "node/1167192180",
+        "fromCoordinates": {
+          "lat": 31.7855909,
+          "lng": 34.6615237
+        },
+        "toCoordinates": {
+          "lat": 31.7859851,
+          "lng": 34.6617536
+        },
+        "distance": "49 m",
+        "duration": "1 min"
+      },
+      {
+        "to": "node/1167192214",
+        "fromCoordinates": {
+          "lat": 31.7855909,
+          "lng": 34.6615237
+        },
+        "toCoordinates": {
+          "lat": 31.7825384,
+          "lng": 34.6636854
+        },
+        "distance": "0.4 km",
+        "duration": "2 mins"
+      }
+    ]
+  }
+}

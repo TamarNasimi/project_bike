@@ -17,6 +17,7 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "graphlib": "^2.1.8",
+    "graphviz": "^0.0.9",
     "mysql": "^2.18.1",
     "mysql2": "^3.9.8",
     "node-fetch": "^3.3.2"
