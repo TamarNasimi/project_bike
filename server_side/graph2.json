@@ -1,0 +1,2580 @@
+{
+  "node/410564349": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": 189,
+        "duration": 35,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1350120481",
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": 389,
+        "duration": 71,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/2524427978",
+        "toCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "distance": 23,
+        "duration": 41,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6679014,
+      31.7930831
+    ]
+  },
+  "node/520410626": {
+    "edges": [
+      {
+        "to": "node/1275849213",
+        "toCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "distance": 29,
+        "duration": 26,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852064",
+        "toCoordinates": {
+          "lat": 31.7895899,
+          "lng": 34.662333
+        },
+        "distance": 363,
+        "duration": 73,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852077",
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": 687,
+        "duration": 141,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6659712,
+      31.7891416
+    ]
+  },
+  "node/520410658": {
+    "edges": [
+      {
+        "to": "node/410564349",
+        "toCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "distance": 189,
+        "duration": 35,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313285",
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": 12,
+        "duration": 2,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849170",
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": 188,
+        "duration": 60,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849176",
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": 87,
+        "duration": 42,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849213",
+        "toCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "distance": 397,
+        "duration": 98,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849241",
+        "toCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "distance": 249,
+        "duration": 71,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1350120481",
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": 200,
+        "duration": 36,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6659041,
+      31.7929576
+    ]
+  },
+  "node/520410867": {
+    "edges": [],
+    "coordinates": [
+      34.6636504,
+      31.7890584
+    ]
+  },
+  "node/520410876": {
+    "edges": [],
+    "coordinates": [
+      34.6623001,
+      31.7894951
+    ]
+  },
+  "node/817929533": {
+    "edges": [
+      {
+        "to": "node/1163313147",
+        "toCoordinates": {
+          "lat": 31.7905418,
+          "lng": 34.659022
+        },
+        "distance": 64,
+        "duration": 11,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177828",
+        "toCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "distance": 258,
+        "duration": 43,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178071",
+        "toCoordinates": {
+          "lat": 31.7918242,
+          "lng": 34.6587036
+        },
+        "distance": 123,
+        "duration": 18,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852069",
+        "toCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "distance": 8,
+        "duration": 1,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6583699,
+      31.7907532
+    ]
+  },
+  "node/817929755": {
+    "edges": [
+      {
+        "to": "node/1167178080",
+        "toCoordinates": {
+          "lat": 31.7928658,
+          "lng": 34.6611781
+        },
+        "distance": 132,
+        "duration": 23,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6614968,
+      31.7940561
+    ]
+  },
+  "node/817929760": {
+    "edges": [
+      {
+        "to": "node/1275852077",
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": 9,
+        "duration": 2,
+        "slope": "-0.03",
+        "complex_transition": "-0.03",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6591438,
+      31.7905068
+    ]
+  },
+  "node/817936205": {
+    "edges": [
+      {
+        "to": "node/1167192178",
+        "toCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "distance": 117,
+        "duration": 22,
+        "slope": "0.02",
+        "complex_transition": "0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275842399",
+        "toCoordinates": {
+          "lat": 31.7813542,
+          "lng": 34.6610521
+        },
+        "distance": 45,
+        "duration": 8,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6615131,
+      31.7811715
+    ]
+  },
+  "node/822100328": {
+    "edges": [
+      {
+        "to": "node/822100335",
+        "toCoordinates": {
+          "lat": 31.7850934,
+          "lng": 34.6585032
+        },
+        "distance": 10,
+        "duration": 2,
+        "slope": "0.02",
+        "complex_transition": "0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/822100352",
+        "toCoordinates": {
+          "lat": 31.7851644,
+          "lng": 34.6583599
+        },
+        "distance": 27,
+        "duration": 6,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/822100355",
+        "toCoordinates": {
+          "lat": 31.7850766,
+          "lng": 34.6582998
+        },
+        "distance": 43,
+        "duration": 9,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167192178",
+        "toCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "distance": 489,
+        "duration": 80,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167192194",
+        "toCoordinates": {
+          "lat": 31.7848882,
+          "lng": 34.658894
+        },
+        "distance": 45,
+        "duration": 8,
+        "slope": "0.07",
+        "complex_transition": "0.07",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6584296,
+      31.7850016
+    ]
+  },
+  "node/822100335": {
+    "edges": [
+      {
+        "to": "node/822100328",
+        "toCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "distance": 10,
+        "duration": 2,
+        "slope": -0.02,
+        "complex_transition": "0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/822100352",
+        "toCoordinates": {
+          "lat": 31.7851644,
+          "lng": 34.6583599
+        },
+        "distance": 15,
+        "duration": 4,
+        "slope": "-0.03",
+        "complex_transition": "-0.03",
+        "closed_street": true
+      },
+      {
+        "to": "node/822100355",
+        "toCoordinates": {
+          "lat": 31.7850766,
+          "lng": 34.6582998
+        },
+        "distance": 31,
+        "duration": 7,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6585032,
+      31.7850934
+    ]
+  },
+  "node/822100352": {
+    "edges": [
+      {
+        "to": "node/822100328",
+        "toCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "distance": 27,
+        "duration": 6,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/822100335",
+        "toCoordinates": {
+          "lat": 31.7850934,
+          "lng": 34.6585032
+        },
+        "distance": 15,
+        "duration": 4,
+        "slope": 0.03,
+        "complex_transition": "-0.03",
+        "closed_street": true
+      },
+      {
+        "to": "node/822100355",
+        "toCoordinates": {
+          "lat": 31.7850766,
+          "lng": 34.6582998
+        },
+        "distance": 14,
+        "duration": 3,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6583599,
+      31.7851644
+    ]
+  },
+  "node/822100355": {
+    "edges": [
+      {
+        "to": "node/822100328",
+        "toCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "distance": 43,
+        "duration": 9,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/822100335",
+        "toCoordinates": {
+          "lat": 31.7850934,
+          "lng": 34.6585032
+        },
+        "distance": 31,
+        "duration": 7,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/822100352",
+        "toCoordinates": {
+          "lat": 31.7851644,
+          "lng": 34.6583599
+        },
+        "distance": 14,
+        "duration": 3,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6582998,
+      31.7850766
+    ]
+  },
+  "node/840343688": {
+    "edges": [
+      {
+        "to": "node/1163021337",
+        "toCoordinates": {
+          "lat": 31.7858897,
+          "lng": 34.6675965
+        },
+        "distance": 14,
+        "duration": 33,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6675639,
+      31.7857705
+    ]
+  },
+  "node/1163013522": {
+    "edges": [
+      {
+        "to": "node/2026381300",
+        "toCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "distance": 938,
+        "duration": 204,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/2026381353",
+        "toCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "distance": 949,
+        "duration": 227,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/2524427978",
+        "toCoordinates": {
+          "lat": 31.7931106,
+          "lng": 34.6681364
+        },
+        "distance": 821,
+        "duration": 133,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6677506,
+      31.7857912
+    ]
+  },
+  "node/1163021337": {
+    "edges": [
+      {
+        "to": "node/840343688",
+        "toCoordinates": {
+          "lat": 31.7857705,
+          "lng": 34.6675639
+        },
+        "distance": 14,
+        "duration": 33,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6675965,
+      31.7858897
+    ]
+  },
+  "node/1163021339": {
+    "edges": [
+      {
+        "to": "node/1167192180",
+        "toCoordinates": {
+          "lat": 31.7859851,
+          "lng": 34.6617536
+        },
+        "distance": 105,
+        "duration": 19,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275842382",
+        "toCoordinates": {
+          "lat": 31.7847065,
+          "lng": 34.6646483
+        },
+        "distance": 417,
+        "duration": 75,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6607569,
+      31.7863826
+    ]
+  },
+  "node/1163313147": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": 64,
+        "duration": 11,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.659022,
+      31.7905418
+    ]
+  },
+  "node/1163313190": {
+    "edges": [
+      {
+        "to": "node/1163313285",
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": 209,
+        "duration": 33,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313304",
+        "toCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "distance": 400,
+        "duration": 60,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177858",
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": 283,
+        "duration": 48,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178060",
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": 147,
+        "duration": 26,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178072",
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": 368,
+        "duration": 62,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178140",
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": 416,
+        "duration": 70,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1350120394",
+        "toCoordinates": {
+          "lat": 31.7935348,
+          "lng": 34.6639468
+        },
+        "distance": 5,
+        "duration": 1,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1350120481",
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": 10,
+        "duration": 2,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6638899,
+      31.7935789
+    ]
+  },
+  "node/1163313285": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": 12,
+        "duration": 2,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313190",
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": 209,
+        "duration": 33,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313304",
+        "toCoordinates": {
+          "lat": 31.792981,
+          "lng": 34.6679261
+        },
+        "distance": 191,
+        "duration": 27,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849170",
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": 177,
+        "duration": 32,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849176",
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": 76,
+        "duration": 14,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849213",
+        "toCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "distance": 386,
+        "duration": 70,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849241",
+        "toCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "distance": 238,
+        "duration": 43,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1350120394",
+        "toCoordinates": {
+          "lat": 31.7935348,
+          "lng": 34.6639468
+        },
+        "distance": 205,
+        "duration": 185,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6659093,
+      31.7928535
+    ]
+  },
+  "node/1163313304": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": 400,
+        "duration": 60,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313285",
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": 191,
+        "duration": 27,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6679261,
+      31.792981
+    ]
+  },
+  "node/1163313338": {
+    "edges": [
+      {
+        "to": "node/2026381333",
+        "toCoordinates": {
+          "lat": 31.7886171,
+          "lng": 34.6585412
+        },
+        "distance": 8,
+        "duration": 2,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/2026381353",
+        "toCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "distance": 11,
+        "duration": 10,
+        "slope": "0.02",
+        "complex_transition": "0.02",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6584425,
+      31.7886483
+    ]
+  },
+  "node/1167177800": {
+    "edges": [
+      {
+        "to": "node/1167178060",
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": 78,
+        "duration": 12,
+        "slope": "0.02",
+        "complex_transition": "0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178255",
+        "toCoordinates": {
+          "lat": 31.7920992,
+          "lng": 34.6643052
+        },
+        "distance": 29,
+        "duration": 6,
+        "slope": "-0.02",
+        "complex_transition": "-0.02",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.664057,
+      31.792186
+    ]
+  },
+  "node/1167177828": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": 258,
+        "duration": 43,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178032",
+        "toCoordinates": {
+          "lat": 31.7931016,
+          "lng": 34.6585517
+        },
+        "distance": 49,
+        "duration": 9,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178071",
+        "toCoordinates": {
+          "lat": 31.7918242,
+          "lng": 34.6587036
+        },
+        "distance": 135,
+        "duration": 21,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852069",
+        "toCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "distance": 247,
+        "duration": 41,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.659069,
+      31.7929966
+    ]
+  },
+  "node/1167177858": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": 283,
+        "duration": 48,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178060",
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": 136,
+        "duration": 24,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178072",
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": 85,
+        "duration": 14,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178140",
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": 133,
+        "duration": 22,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1350120481",
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": 293,
+        "duration": 75,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.662882,
+      31.7912114
+    ]
+  },
+  "node/1167177931": {
+    "edges": [
+      {
+        "to": "node/1167178032",
+        "toCoordinates": {
+          "lat": 31.7931016,
+          "lng": 34.6585517
+        },
+        "distance": 60,
+        "duration": 12,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178142",
+        "toCoordinates": {
+          "lat": 31.7919715,
+          "lng": 34.6582276
+        },
+        "distance": 70,
+        "duration": 10,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6584044,
+      31.7925879
+    ]
+  },
+  "node/1167178032": {
+    "edges": [
+      {
+        "to": "node/1167177828",
+        "toCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "distance": 49,
+        "duration": 9,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177931",
+        "toCoordinates": {
+          "lat": 31.7925879,
+          "lng": 34.6584044
+        },
+        "distance": 60,
+        "duration": 12,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178142",
+        "toCoordinates": {
+          "lat": 31.7919715,
+          "lng": 34.6582276
+        },
+        "distance": 130,
+        "duration": 18,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6585517,
+      31.7931016
+    ]
+  },
+  "node/1167178060": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": 147,
+        "duration": 26,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177800",
+        "toCoordinates": {
+          "lat": 31.792186,
+          "lng": 34.664057
+        },
+        "distance": 78,
+        "duration": 12,
+        "slope": -0.02,
+        "complex_transition": "0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177858",
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": 136,
+        "duration": 24,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178072",
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": 221,
+        "duration": 36,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178140",
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": 269,
+        "duration": 44,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178316",
+        "toCoordinates": {
+          "lat": 31.7926227,
+          "lng": 34.6622431
+        },
+        "distance": 99,
+        "duration": 18,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1350120481",
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": 157,
+        "duration": 51,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6632631,
+      31.7923898
+    ]
+  },
+  "node/1167178071": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": 123,
+        "duration": 18,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177828",
+        "toCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "distance": 135,
+        "duration": 21,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852069",
+        "toCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "distance": 113,
+        "duration": 20,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6587036,
+      31.7918242
+    ]
+  },
+  "node/1167178072": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": 368,
+        "duration": 62,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177858",
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": 85,
+        "duration": 14,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178060",
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": 221,
+        "duration": 36,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178140",
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": 48,
+        "duration": 8,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1350120481",
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": 378,
+        "duration": 90,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6626222,
+      31.7904629
+    ]
+  },
+  "node/1167178080": {
+    "edges": [
+      {
+        "to": "node/817929755",
+        "toCoordinates": {
+          "lat": 31.7940561,
+          "lng": 34.6614968
+        },
+        "distance": 132,
+        "duration": 23,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6611781,
+      31.7928658
+    ]
+  },
+  "node/1167178140": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": 416,
+        "duration": 70,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177858",
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": 133,
+        "duration": 22,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178060",
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": 269,
+        "duration": 44,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178072",
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": 48,
+        "duration": 8,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1350120481",
+        "toCoordinates": {
+          "lat": 31.7936301,
+          "lng": 34.663997
+        },
+        "distance": 426,
+        "duration": 99,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6624848,
+      31.790048
+    ]
+  },
+  "node/1167178142": {
+    "edges": [
+      {
+        "to": "node/1167177931",
+        "toCoordinates": {
+          "lat": 31.7925879,
+          "lng": 34.6584044
+        },
+        "distance": 70,
+        "duration": 10,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178032",
+        "toCoordinates": {
+          "lat": 31.7931016,
+          "lng": 34.6585517
+        },
+        "distance": 130,
+        "duration": 18,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6582276,
+      31.7919715
+    ]
+  },
+  "node/1167178144": {
+    "edges": [
+      {
+        "to": "node/1275849259",
+        "toCoordinates": {
+          "lat": 31.7909808,
+          "lng": 34.6641221
+        },
+        "distance": 28,
+        "duration": 5,
+        "slope": "-0.01",
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6638697,
+      31.7909765
+    ]
+  },
+  "node/1167178255": {
+    "edges": [
+      {
+        "to": "node/1167177800",
+        "toCoordinates": {
+          "lat": 31.792186,
+          "lng": 34.664057
+        },
+        "distance": 29,
+        "duration": 6,
+        "slope": 0.02,
+        "complex_transition": "-0.02",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6643052,
+      31.7920992
+    ]
+  },
+  "node/1167178316": {
+    "edges": [
+      {
+        "to": "node/1167178060",
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": 99,
+        "duration": 18,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6622431,
+      31.7926227
+    ]
+  },
+  "node/1167192178": {
+    "edges": [
+      {
+        "to": "node/817936205",
+        "toCoordinates": {
+          "lat": 31.7811715,
+          "lng": 34.6615131
+        },
+        "distance": 117,
+        "duration": 22,
+        "slope": -0.02,
+        "complex_transition": "0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/822100328",
+        "toCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "distance": 489,
+        "duration": 80,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167192194",
+        "toCoordinates": {
+          "lat": 31.7848882,
+          "lng": 34.658894
+        },
+        "distance": 442,
+        "duration": 77,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275842399",
+        "toCoordinates": {
+          "lat": 31.7813542,
+          "lng": 34.6610521
+        },
+        "distance": 72,
+        "duration": 10,
+        "slope": "-0.03",
+        "complex_transition": "-0.03",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6603849,
+      31.7816275
+    ]
+  },
+  "node/1167192180": {
+    "edges": [
+      {
+        "to": "node/1163021339",
+        "toCoordinates": {
+          "lat": 31.7863826,
+          "lng": 34.6607569
+        },
+        "distance": 105,
+        "duration": 19,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275842382",
+        "toCoordinates": {
+          "lat": 31.7847065,
+          "lng": 34.6646483
+        },
+        "distance": 312,
+        "duration": 56,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/3546988397",
+        "toCoordinates": {
+          "lat": 31.7855909,
+          "lng": 34.6615237
+        },
+        "distance": 49,
+        "duration": 9,
+        "slope": "0.03",
+        "complex_transition": "0.03",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6617536,
+      31.7859851
+    ]
+  },
+  "node/1167192194": {
+    "edges": [
+      {
+        "to": "node/822100328",
+        "toCoordinates": {
+          "lat": 31.7850016,
+          "lng": 34.6584296
+        },
+        "distance": 45,
+        "duration": 8,
+        "slope": -0.07,
+        "complex_transition": "0.07",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167192178",
+        "toCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "distance": 442,
+        "duration": 77,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/3546988397",
+        "toCoordinates": {
+          "lat": 31.7855909,
+          "lng": 34.6615237
+        },
+        "distance": 362,
+        "duration": 52,
+        "slope": "-0.02",
+        "complex_transition": "-0.02",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.658894,
+      31.7848882
+    ]
+  },
+  "node/1167192214": {
+    "edges": [
+      {
+        "to": "node/1275842382",
+        "toCoordinates": {
+          "lat": 31.7847065,
+          "lng": 34.6646483
+        },
+        "distance": 260,
+        "duration": 41,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/3546988397",
+        "toCoordinates": {
+          "lat": 31.7855909,
+          "lng": 34.6615237
+        },
+        "distance": 438,
+        "duration": 70,
+        "slope": "-0.00",
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6636854,
+      31.7825384
+    ]
+  },
+  "node/1275842382": {
+    "edges": [
+      {
+        "to": "node/1163021339",
+        "toCoordinates": {
+          "lat": 31.7863826,
+          "lng": 34.6607569
+        },
+        "distance": 417,
+        "duration": 75,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167192180",
+        "toCoordinates": {
+          "lat": 31.7859851,
+          "lng": 34.6617536
+        },
+        "distance": 312,
+        "duration": 56,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167192214",
+        "toCoordinates": {
+          "lat": 31.7825384,
+          "lng": 34.6636854
+        },
+        "distance": 260,
+        "duration": 41,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6646483,
+      31.7847065
+    ]
+  },
+  "node/1275842399": {
+    "edges": [
+      {
+        "to": "node/817936205",
+        "toCoordinates": {
+          "lat": 31.7811715,
+          "lng": 34.6615131
+        },
+        "distance": 45,
+        "duration": 8,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167192178",
+        "toCoordinates": {
+          "lat": 31.7816275,
+          "lng": 34.6603849
+        },
+        "distance": 72,
+        "duration": 10,
+        "slope": 0.03,
+        "complex_transition": "-0.03",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6610521,
+      31.7813542
+    ]
+  },
+  "node/1275849151": {
+    "edges": [],
+    "coordinates": [
+      34.6639023,
+      31.7879198
+    ]
+  },
+  "node/1275849162": {
+    "edges": [],
+    "coordinates": [
+      34.6640052,
+      31.787889
+    ]
+  },
+  "node/1275849170": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": 188,
+        "duration": 60,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313285",
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": 177,
+        "duration": 32,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849176",
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": 101,
+        "duration": 15,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849213",
+        "toCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "distance": 209,
+        "duration": 38,
+        "slope": "0.02",
+        "complex_transition": "0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849241",
+        "toCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "distance": 61,
+        "duration": 11,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6659878,
+      31.7912735
+    ]
+  },
+  "node/1275849176": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": 87,
+        "duration": 42,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313285",
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": 76,
+        "duration": 14,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849170",
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": 101,
+        "duration": 15,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849213",
+        "toCoordinates": {
+          "lat": 31.7894129,
+          "lng": 34.6660803
+        },
+        "distance": 310,
+        "duration": 56,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849241",
+        "toCoordinates": {
+          "lat": 31.790732,
+          "lng": 34.6660147
+        },
+        "distance": 162,
+        "duration": 29,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6659431,
+      31.7921724
+    ]
+  },
+  "node/1275849213": {
+    "edges": [
+      {
+        "to": "node/520410626",
+        "toCoordinates": {
+          "lat": 31.7891416,
+          "lng": 34.6659712
+        },
+        "distance": 29,
+        "duration": 26,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/520410658",
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": 397,
+        "duration": 98,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313285",
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": 386,
+        "duration": 70,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849170",
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": 209,
+        "duration": 38,
+        "slope": -0.02,
+        "complex_transition": "0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849176",
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": 310,
+        "duration": 56,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6660803,
+      31.7894129
+    ]
+  },
+  "node/1275849215": {
+    "edges": [],
+    "coordinates": [
+      34.6666284,
+      31.7907666
+    ]
+  },
+  "node/1275849224": {
+    "edges": [],
+    "coordinates": [
+      34.6666995,
+      31.78943
+    ]
+  },
+  "node/1275849241": {
+    "edges": [
+      {
+        "to": "node/520410658",
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": 249,
+        "duration": 71,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313285",
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": 238,
+        "duration": 43,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849170",
+        "toCoordinates": {
+          "lat": 31.7912735,
+          "lng": 34.6659878
+        },
+        "distance": 61,
+        "duration": 11,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275849176",
+        "toCoordinates": {
+          "lat": 31.7921724,
+          "lng": 34.6659431
+        },
+        "distance": 162,
+        "duration": 29,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6660147,
+      31.790732
+    ]
+  },
+  "node/1275849259": {
+    "edges": [
+      {
+        "to": "node/1167178144",
+        "toCoordinates": {
+          "lat": 31.7909765,
+          "lng": 34.6638697
+        },
+        "distance": 28,
+        "duration": 5,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6641221,
+      31.7909808
+    ]
+  },
+  "node/1275852064": {
+    "edges": [
+      {
+        "to": "node/520410626",
+        "toCoordinates": {
+          "lat": 31.7891416,
+          "lng": 34.6659712
+        },
+        "distance": 363,
+        "duration": 73,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852077",
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": 325,
+        "duration": 68,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.662333,
+      31.7895899
+    ]
+  },
+  "node/1275852069": {
+    "edges": [
+      {
+        "to": "node/817929533",
+        "toCoordinates": {
+          "lat": 31.7907532,
+          "lng": 34.6583699
+        },
+        "distance": 8,
+        "duration": 1,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177828",
+        "toCoordinates": {
+          "lat": 31.7929966,
+          "lng": 34.659069
+        },
+        "distance": 247,
+        "duration": 41,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178071",
+        "toCoordinates": {
+          "lat": 31.7918242,
+          "lng": 34.6587036
+        },
+        "distance": 113,
+        "duration": 20,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852071",
+        "toCoordinates": {
+          "lat": 31.7906291,
+          "lng": 34.6590535
+        },
+        "distance": 65,
+        "duration": 59,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6583986,
+      31.7908453
+    ]
+  },
+  "node/1275852071": {
+    "edges": [
+      {
+        "to": "node/1275852069",
+        "toCoordinates": {
+          "lat": 31.7908453,
+          "lng": 34.6583986
+        },
+        "distance": 65,
+        "duration": 59,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852077",
+        "toCoordinates": {
+          "lat": 31.7905945,
+          "lng": 34.6591703
+        },
+        "distance": 12,
+        "duration": 11,
+        "slope": "0.00",
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6590535,
+      31.7906291
+    ]
+  },
+  "node/1275852077": {
+    "edges": [
+      {
+        "to": "node/520410626",
+        "toCoordinates": {
+          "lat": 31.7891416,
+          "lng": 34.6659712
+        },
+        "distance": 687,
+        "duration": 141,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/817929760",
+        "toCoordinates": {
+          "lat": 31.7905068,
+          "lng": 34.6591438
+        },
+        "distance": 9,
+        "duration": 2,
+        "slope": 0.03,
+        "complex_transition": "-0.03",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852064",
+        "toCoordinates": {
+          "lat": 31.7895899,
+          "lng": 34.662333
+        },
+        "distance": 325,
+        "duration": 68,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1275852071",
+        "toCoordinates": {
+          "lat": 31.7906291,
+          "lng": 34.6590535
+        },
+        "distance": 12,
+        "duration": 11,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6591703,
+      31.7905945
+    ]
+  },
+  "node/1350120394": {
+    "edges": [
+      {
+        "to": "node/1163313190",
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": 5,
+        "duration": 1,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313285",
+        "toCoordinates": {
+          "lat": 31.7928535,
+          "lng": 34.6659093
+        },
+        "distance": 205,
+        "duration": 185,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6639468,
+      31.7935348
+    ]
+  },
+  "node/1350120481": {
+    "edges": [
+      {
+        "to": "node/410564349",
+        "toCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "distance": 389,
+        "duration": 71,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/520410658",
+        "toCoordinates": {
+          "lat": 31.7929576,
+          "lng": 34.6659041
+        },
+        "distance": 200,
+        "duration": 36,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313190",
+        "toCoordinates": {
+          "lat": 31.7935789,
+          "lng": 34.6638899
+        },
+        "distance": 10,
+        "duration": 2,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167177858",
+        "toCoordinates": {
+          "lat": 31.7912114,
+          "lng": 34.662882
+        },
+        "distance": 293,
+        "duration": 75,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178060",
+        "toCoordinates": {
+          "lat": 31.7923898,
+          "lng": 34.6632631
+        },
+        "distance": 157,
+        "duration": 51,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178072",
+        "toCoordinates": {
+          "lat": 31.7904629,
+          "lng": 34.6626222
+        },
+        "distance": 378,
+        "duration": 90,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167178140",
+        "toCoordinates": {
+          "lat": 31.790048,
+          "lng": 34.6624848
+        },
+        "distance": 426,
+        "duration": 99,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.663997,
+      31.7936301
+    ]
+  },
+  "node/2026381300": {
+    "edges": [
+      {
+        "to": "node/1163013522",
+        "toCoordinates": {
+          "lat": 31.7857912,
+          "lng": 34.6677506
+        },
+        "distance": 938,
+        "duration": 204,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/2026381353",
+        "toCoordinates": {
+          "lat": 31.7887737,
+          "lng": 34.6584808
+        },
+        "distance": 8,
+        "duration": 1,
+        "slope": "0.01",
+        "complex_transition": "0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6585844,
+      31.7887411
+    ]
+  },
+  "node/2026381333": {
+    "edges": [
+      {
+        "to": "node/1163313338",
+        "toCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "distance": 8,
+        "duration": 2,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6585412,
+      31.7886171
+    ]
+  },
+  "node/2026381353": {
+    "edges": [
+      {
+        "to": "node/1163013522",
+        "toCoordinates": {
+          "lat": 31.7857912,
+          "lng": 34.6677506
+        },
+        "distance": 949,
+        "duration": 227,
+        "slope": 0,
+        "complex_transition": "0.00",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163313338",
+        "toCoordinates": {
+          "lat": 31.7886483,
+          "lng": 34.6584425
+        },
+        "distance": 11,
+        "duration": 10,
+        "slope": -0.02,
+        "complex_transition": "0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/2026381300",
+        "toCoordinates": {
+          "lat": 31.7887411,
+          "lng": 34.6585844
+        },
+        "distance": 8,
+        "duration": 1,
+        "slope": -0.01,
+        "complex_transition": "0.01",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6584808,
+      31.7887737
+    ]
+  },
+  "node/2524427978": {
+    "edges": [
+      {
+        "to": "node/410564349",
+        "toCoordinates": {
+          "lat": 31.7930831,
+          "lng": 34.6679014
+        },
+        "distance": 23,
+        "duration": 41,
+        "slope": 0.01,
+        "complex_transition": "-0.01",
+        "closed_street": true
+      },
+      {
+        "to": "node/1163013522",
+        "toCoordinates": {
+          "lat": 31.7857912,
+          "lng": 34.6677506
+        },
+        "distance": 821,
+        "duration": 133,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6681364,
+      31.7931106
+    ]
+  },
+  "node/3546988397": {
+    "edges": [
+      {
+        "to": "node/1167192180",
+        "toCoordinates": {
+          "lat": 31.7859851,
+          "lng": 34.6617536
+        },
+        "distance": 49,
+        "duration": 9,
+        "slope": -0.03,
+        "complex_transition": "0.03",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167192194",
+        "toCoordinates": {
+          "lat": 31.7848882,
+          "lng": 34.658894
+        },
+        "distance": 362,
+        "duration": 52,
+        "slope": 0.02,
+        "complex_transition": "-0.02",
+        "closed_street": true
+      },
+      {
+        "to": "node/1167192214",
+        "toCoordinates": {
+          "lat": 31.7825384,
+          "lng": 34.6636854
+        },
+        "distance": 438,
+        "duration": 70,
+        "slope": 0,
+        "complex_transition": "-0.00",
+        "closed_street": true
+      }
+    ],
+    "coordinates": [
+      34.6615237,
+      31.7855909
+    ]
+  }
+}
