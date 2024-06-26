@@ -1,61 +1,90 @@
+
 const fs = require('fs');
 const axios = require('axios');
-const { Graph } = require('graphlib');
+const { Graph } = require('graphlib'); // require graphlib
 
-let vertices;
-try {
-  const data = fs.readFileSync('./DAL/nodes.json', 'utf8');
-  const jsonData = JSON.parse(data);
-  vertices = jsonData.elements.map(element => ({
-    id: element.id,
-    lat: element.lat,
-    lng: element.lon
-  }));
-} catch (error) {
-  console.error("Error reading or parsing nodes.json:", error);
-  process.exit(1);
-}
+  const nodesMap = {};
+const graph = new Graph({ directed: false }); // create an undirected graph
 
-let ways;
-try {
-  const data = fs.readFileSync('./DAL/edges.json', 'utf8');
-  const jsonData = JSON.parse(data);
-  ways = jsonData.elements.map(element => ({
-    id: element.id,
-    nodes: element.nodes
-  }));
-} catch (error) {
-  console.error("Error reading or parsing edges.json:", error);
-  process.exit(1);
-}
+// פונקציה לקבלת המידע אודות הכבישים של עיר שהתקבלה
+async function fetchWaysFromOverpass(cityName) {
 
-// פונקציה לבניית הגרף
-async function buildGraph() {
-    const graph = new Graph();
-  
-    // אתחול גרף עם צמתים ריקים
-    vertices.forEach(vertex => {
-      graph.setNode(vertex.id, { coordinates: [vertex.lat, vertex.lng], edges: [] });
+const overpassQuery = `
+[out:json][timeout:25];
+area[name="${cityName}"]->.ny;
+way(area.ny)["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential)$"];
+out body geom;
+`;
+  try {
+    const response = await axios.post('https://overpass-api.de/api/interpreter', overpassQuery, {
+      headers: { 'Content-Type': 'text/plain' }
     });
-
-    ways.forEach(way => {
-        const nodes = way.nodes;
-        for (let i = 0; i < nodes.length - 1; i++) {
-          if (graph.hasNode(nodes[i]) && graph.hasNode(nodes[i + 1])) {
-            graph.setEdge(nodes[i], nodes[i + 1], way.id);
-            graph.node(nodes[i]).edges.push(nodes[i + 1]);
-            graph.node(nodes[i + 1]).edges.push(nodes[i]);
-          }
-        }
-      });
-  
-    // שמירת הגרף לקובץ
-    fs.writeFileSync('graph.json', JSON.stringify(graph, null, 2), 'utf8');
+    return response.data;
+  } catch (error) {
+    console.error('Error fetching data from Overpass API:', error);
+    return null;
   }
-  
-  // קריאה לפונקציה לבניית הגרף
-  buildGraph().then(() => {
-    console.log('Graph built successfully');
-  }).catch(err => {
-    console.error('Error building graph:', err);
+}
+//פונקציה לבניית הגרף
+async function buildGraph(cityName) {
+
+  //זימון פונקציה לקבלת המידע אודות העיר
+  const jsonData = await fetchWaysFromOverpass(cityName);
+  if (!jsonData) return;
+
+// מיפוי כל הצמתים בדרכים
+jsonData.elements.forEach(way => {
+  way.nodes.forEach((nodeId, index) => {
+    if (!nodesMap[nodeId]) {
+      const { lat, lon } = way.geometry[index];
+      nodesMap[nodeId] = {
+        type: 'node',
+        id: nodeId,
+        lat: lat,
+        lng: lon,
+        edges: []
+      };
+      graph.setNode(nodeId, { lat, lon }); // add node to the graph
+    }
   });
+});
+
+
+ // מעבר על כל הדרכים והוספת חיבורים ישירים
+ jsonData.elements.forEach(way => {
+  if (way.type === 'way' && way.nodes && way.nodes.length > 1) {
+    for (let i = 0; i < way.nodes.length - 1; i++) {
+      const source = way.nodes[i];
+      const target = way.nodes[i + 1];
+       if (nodesMap[source] && nodesMap[target]) {
+        if (!nodesMap[source].edges.some(edge => edge.id === target)) {
+          nodesMap[source].edges.push({
+            id: target,
+            lat: nodesMap[target].lat,
+            lng: nodesMap[target].lng
+          });
+          graph.setEdge(source, target); // add edge to the graph
+        }
+        if (!nodesMap[target].edges.some(edge => edge.id === source)) {
+          nodesMap[target].edges.push({
+            id: source,
+            lat: nodesMap[source].lat,
+            lng: nodesMap[source].lng
+          });
+          graph.setEdge(target, source); // add edge to the graph
+        }
+       }
+    }
+  }
+});
+}
+
+let cityName = "אלעד";
+
+buildGraph(cityName).then(() => {
+  console.log('Graph built successfully');
+  fs.writeFileSync('nodes.json', JSON.stringify(nodesMap, null, 2));
+  fs.writeFileSync('graph.json', JSON.stringify(graph, null, 2));
+}).catch(err => {
+  console.error('Error building graph:', err);
+});
